@@ -11,3 +11,17 @@ Application web realisé pour la démo du talk ***"Introduction à Quarkus Frame
 ### Architecture de l'application - microservices
 
 ![Architecture mkutanoTalks](architecture-mkutanoTalks.png)
+
+
+#Projet Devops
+
+### Mettre en place le groupe de projet git pour accueillir les repos git du projet
+
+### Reflechir sur l'orrganisation des equipes projets, la sécurité des branches et le flow de gestion du code source
+
+### Implémenter les differents job de build, releases et deploy pour chaque µservices
+
+### Contenairiser les microservices en externalisant les variables d'environnements
+
+### Implémenter la gestion des configuration
+
