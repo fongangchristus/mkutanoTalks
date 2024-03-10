@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 
-@RegisterRestClient(configKey = "telegramBot-message-api")
+@RegisterRestClient(configKey = "code-backend-api")
 public interface RemoteMessage {
     record Message( Long id, String firstName, String messageText, LocalDateTime dateTime){};
     @GET
